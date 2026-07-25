@@ -1,0 +1,6 @@
+{
+  "name": "দারুস সালাম মাদরাসা",
+  "description": "দারুস সালাম মাদরাসা ব্যবস্থাপনা অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

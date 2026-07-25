@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155164487084",
+    "project_id": "darussalm-e9c30",
+    "storage_bucket": "darussalm-e9c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155164487084:android:2caca36e4afa4a77e55e09",
+        "android_client_info": {
+          "package_name": "com.darussalm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwh4JNhO0vrrsirpVUKatjuG934EpTZkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155164487084:android:2caca36e4afa4a77e55e09",
+        "android_client_info": {
+          "package_name": "com.aistudio.madrassamanagement.xyzabc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwh4JNhO0vrrsirpVUKatjuG934EpTZkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
